@@ -78,7 +78,7 @@ const App: () => Node = () => {
             I currently have two degrees. One in <Text style={styles.highlight}>Computer Engineering </Text> and one in <Text style={styles.highlight}>Business Management </Text> 
           </Section>
           <Section title="My Hobbies">
-            My hobbies include playing Basketbal, Dancing, Singing, and Workingout.
+            My hobbies include playing Basketbal, Dancing, Singing, and Working out.
           </Section>
           <Section title="To Learn More">
             You Can Follow me on my social media. Linked below:
