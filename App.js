@@ -72,7 +72,7 @@ const App: () => Node = () => {
           }}>
           <Section title="My Name">
             My name is <Text style={styles.highlight}>Tanav.</Text> But you can
-            call me T or Nav for short. 
+            call me T or Nav for short. I dont know my Student ID at the moment. 
           </Section>
           <Section title="My Education Background">
             I currently have two degrees. One in <Text style={styles.highlight}>Computer Engineering </Text> and one in <Text style={styles.highlight}>Business Management </Text> 
@@ -81,7 +81,7 @@ const App: () => Node = () => {
             My hobbies include playing Basketbal, Dancing, Singing, and Working out.
           </Section>
           <Section title="To Learn More">
-            You Can Follow me on my social media. Linked below:
+            You Can Follow me on my social media. Instagram Linked below:
           </Section>
           <LearnMoreLinks />
         </View>
